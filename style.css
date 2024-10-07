@@ -7,7 +7,7 @@ height: 100vh;
     display: flex;
 }
 .left{
-    width: 806.5px;
+    width: 1127.5px;
     height: 1310px;
     background: linear-gradient(180deg, #7271FF 0%, #3433FF 100%);
     position: relative;
@@ -68,15 +68,7 @@ height: 100vh;
     justify-content: center;
     font-family: Poppins;
 }
-.window{
-    width: 896.48px;
-    height: 668px;
-    top: 657px;
-    left: 173px;
-    padding: 0px 0px 9px 0px;
-    position: absolute;
-    background-color: rgb(255, 255, 255);    
-}
+
 .right{
     width: 900px;
     height: 1310px;
@@ -178,4 +170,14 @@ height: 100vh;
     text-align: left;
     color: #7271FF;    
     text-decoration: underline;
+}
+.foto{
+    width: 896.48px;
+height: 668px;
+top: 657px;
+left: 173px;
+padding: 0px 0px 9px 0px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
 }
